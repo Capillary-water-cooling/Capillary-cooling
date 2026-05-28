@@ -1,4 +1,4 @@
-# capillary-cooling
+# Capillary-cooling
 A new capillary water cooling method for water-cooled PCs and AI data centers.
 Presented by **Kouji Murakami** (IPL Intellectual Property Institute)
 The biggest drawback of current immersion cooling is poor maintainability, high cost of dielectric fluids, and potential leakage risks. This project proposes a revolutionary **Capillary Water Cooling System** that operates pump-free (or with minimal power) using capillary action, drastically reducing weight and leakage risks.
